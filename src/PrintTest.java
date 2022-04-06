@@ -3,12 +3,12 @@ public class PrintTest {
         System.out.println("Hello world!");
         System.out.println("Hello world again!");
         System.out.println();
-        System.out.println("Hello world!");
-        System.out.println("Hello world again!");
+        System.out.print("Hello world!");
+        System.out.print("Hello world again!");
         System.out.println();
-        System.out.println("Hello,");
-        System.out.println(" ");
-        System.out.println("world");
+        System.out.print("Hello,");
+        System.out.print(" ");
+        System.out.println("world!");
         System.out.println("Hello, world!");
     }
 }
