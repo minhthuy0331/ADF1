@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8323848-2cec-4939-970b-f481effbd0ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BouncingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Session6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BouncingBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticMembers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserLogin.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
