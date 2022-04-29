@@ -1,3 +1,4 @@
+package session7;
 class B2b_FourWheeler2 extends B2a_Vehicle2 {
     private boolean powerSteer;
     public B2b_FourWheeler2(String vId, String vName, int numWheels, boolean pSteer ) {

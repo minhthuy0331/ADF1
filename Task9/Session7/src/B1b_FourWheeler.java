@@ -1,3 +1,4 @@
+package session7;
 class B1b_FourWheeler extends B1a_Vehicle {
     private boolean powerSteer; // steering information
 

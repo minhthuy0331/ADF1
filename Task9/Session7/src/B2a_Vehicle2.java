@@ -1,3 +1,4 @@
+package session7;
 class B2a_Vehicle2 {
     protected String vehicleNo;
     protected String vehicleName;
