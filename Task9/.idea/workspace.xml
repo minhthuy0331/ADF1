@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8323848-2cec-4939-970b-f481effbd0ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Session6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Session6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BouncingBall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticMembers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserLogin.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLearn/src/com/codelean/access/CodeLeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLearn/src/com/codelean/access/CodeLearnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLearn/src/com/codelean/access/child/CodeLeanC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLearn/src/com/codelean/util/CodeLeanE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/src/BouncingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session6/src/BouncingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B1a_Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B1a_Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B1b_FourWheeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B1b_FourWheeler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B2a_Vehicle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B2a_Vehicle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B2b_FourWheeler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B2b_FourWheeler2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B4a_Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B4a_Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B4b_Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B4b_Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B4c_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B4c_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/src/B4d_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/src/B4d_Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
