@@ -1,4 +1,3 @@
-package abstractdemo;
 class B4c_Rectangle extends B4a_Shape {
     float perimeter;
     float length = 10;
