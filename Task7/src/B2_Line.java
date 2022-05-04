@@ -9,8 +9,8 @@ public class B2_Line {
         end = new B2_Point(x2,y2);
     }
     public B2_Line(B2_Point begin, B2_Point end) {
-        this.begin = begin;
-        this.end = end;
+        begin = begin;
+        end = end;
     }
     public B2_Point getBegin() {
         return begin;
