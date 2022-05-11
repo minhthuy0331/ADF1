@@ -23,6 +23,7 @@ public class Account {
         long money;
         int type;
         Scanner in = new Scanner(System.in);
+        System.out.println("Enter type: ");
         type = in.nextInt();
         System.out.println("Enter money: ");
         money = in.nextLong();
