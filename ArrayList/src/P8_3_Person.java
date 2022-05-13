@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
@@ -49,6 +50,11 @@ class P8_3_Person {
 
         // A more concise of writing the above sorting function
         people.sort(Comparator.comparingInt(P8_3_Person::getAge));
+        System.out.println("Sorted Person List by Age: " + people);
+
+        // You can also sort using Collections.sort() method by passing the custom Comparator
+        Collections.sort(people, Comparator.comparing(P8_3_Person::getName));
+        System.out.println("Sorted Person List by Name: " + people);
 
     }
 }
